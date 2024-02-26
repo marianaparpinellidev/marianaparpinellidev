@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou a Mariana Parpinelli</h2>
+<h2 align="center">Olá! Sou a Mariana Parpinelli</h2>
 
 ###
 
